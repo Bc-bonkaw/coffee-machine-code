@@ -49,5 +49,3 @@ python coffee_machine.py
 
 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-This README should give a clear and concise overview of your project and help others understand and use it.
